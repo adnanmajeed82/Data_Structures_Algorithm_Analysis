@@ -3,5 +3,4 @@ Data_Structures_Algorithm_Analysis
 
  
 
-
-Adnan Majeed, Lecturer at Lahore Leads University, specializes in Artificial Intelligence and Data Science with a strong research background and practical expertise. His GitHub portfolio features real-world projects, including Machine Learning models, Django-based APIs, QR code generation, and emotion detection systems. He is recognized for effectively bridging academic theory with hands-on development, fostering innovation in AI and data-driven solutions.
+Adnan Majeed is an M.Phil qualified lecturer and a skilled professional in Machine Learning, Deep Learning, Data Science, and Artificial Intelligence. With extensive teaching and research experience, he has guided students in advanced computing concepts and real-world applications. His expertise spans developing intelligent systems, applying data-driven solutions, and delivering impactful lectures that bridge theory with practice.
