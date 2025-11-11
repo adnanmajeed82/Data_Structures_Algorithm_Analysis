@@ -1,7 +1,9 @@
 # Data_Structures_Algorithm_Analysis
 Data_Structures_Algorithm_Analysis
 
- Derived from Topic 1: Pigeonhole Principle using Hashing & Indexing
+ Derived from Topic 1: Pigeonhole Principle using Hashing & Indexing 
+ Derived from Topic 2: Heap Implementation using Discrete Logic & Python
+(Focus: computational logic, algorithms, and implementation)
 (Focus: data structures, algorithms, and efficiency)
 1.	Optimized Hash Table Design using the Pigeonhole Principle for Collision Minimization
 → Explores how the pigeonhole principle can improve hash table load balancing and data retrieval speed.
@@ -13,9 +15,6 @@ Data_Structures_Algorithm_Analysis
 → Discusses data replication and consistent hashing in peer-to-peer or cloud storage using the pigeonhole logic.
 5.	Mathematical Modeling of Data Clustering using Pigeonhole-based Hash Distribution in AI Systems
 → Focuses on applying pigeonhole-based hashing for intelligent data categorization in machine learning preprocessing.
-
-Derived from Topic 2: Heap Implementation using Discrete Logic & Python
-(Focus: computational logic, algorithms, and implementation)
 6.	Efficient Heap Construction Algorithms using Discrete Mathematical Logic in Python
 → Designs heap algorithms (min-heap, max-heap) using discrete mathematical reasoning for optimized time complexity.
 7.	A Logical Framework for Heap Sorting using Boolean Algebra and Python Programming
