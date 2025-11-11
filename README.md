@@ -14,7 +14,7 @@ Data_Structures_Algorithm_Analysis
 5.	Mathematical Modeling of Data Clustering using Pigeonhole-based Hash Distribution in AI Systems
 → Focuses on applying pigeonhole-based hashing for intelligent data categorization in machine learning preprocessing.
 
-🔹 Derived from Topic 2: Heap Implementation using Discrete Logic & Python
+Derived from Topic 2: Heap Implementation using Discrete Logic & Python
 (Focus: computational logic, algorithms, and implementation)
 6.	Efficient Heap Construction Algorithms using Discrete Mathematical Logic in Python
 → Designs heap algorithms (min-heap, max-heap) using discrete mathematical reasoning for optimized time complexity.
