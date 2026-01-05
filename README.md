@@ -25,7 +25,12 @@ Data_Structures_Algorithm_Analysis
 → Compares performance, memory utilization, and computational efficiency between logic-based and standard heap models.
 10.	Integrating Discrete Mathematics and Data Structures: A Case Study of Heap Logic Implementation in Python
 → A pedagogical and experimental article on bridging mathematical logic and computer programming for teaching and research.
-📄 Research Paper: An Efficient Approach for ... 
+
+🔗 Research Paper
+
+📘 📄 Read Full Research Paper
+
+Published in Theses Journal – Open Access 
 
 📌 Link to Paper:
 https://thesesjournal.com/index.php/1/article/view/1491
