@@ -25,6 +25,11 @@ Data_Structures_Algorithm_Analysis
 → Compares performance, memory utilization, and computational efficiency between logic-based and standard heap models.
 10.	Integrating Discrete Mathematics and Data Structures: A Case Study of Heap Logic Implementation in Python
 → A pedagogical and experimental article on bridging mathematical logic and computer programming for teaching and research.
+📄 Research Paper: An Efficient Approach for ... 
+
+📌 Link to Paper:
+https://thesesjournal.com/index.php/1/article/view/1491
+
 
 Adnan Majeed is an M.Phil-qualified Lecturer and a seasoned professional with over 15 years of teaching and research experience in Machine Learning, Deep Learning, Data Science, and Artificial Intelligence. Throughout his distinguished career, he has empowered students with cutting-edge knowledge in advanced computing, fostering analytical thinking and innovation.
 
